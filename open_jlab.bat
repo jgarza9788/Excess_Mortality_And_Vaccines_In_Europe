@@ -1,0 +1,1 @@
+jupyter lab --notebook-dir=./ --ServerApp.resource_limits=10000000000
