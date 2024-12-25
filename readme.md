@@ -11,4 +11,3 @@ jupyter nbconvert main.ipynb --to html --output output/main.html
 
 ```
 https://jgarza9788.github.io/Excess_Mortality_And_Vaccines_In_Europe/index.html
-
