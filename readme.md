@@ -7,7 +7,7 @@ This notebook discusses topics related to mortality, including statistical analy
 ## converting
 ### Convert to html 
 ```
-jupyter nbconvert main.ipynb --to html --output output/main.html
+jupyter nbconvert main.ipynb --to html --output docs/index.html
 
 ```
 https://jgarza9788.github.io/Excess_Mortality_And_Vaccines_In_Europe/index.html
