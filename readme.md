@@ -11,4 +11,3 @@ reports_to_html.bat
 
 ```
 https://jgarza9788.github.io/Excess_Mortality_And_Vaccines_In_Europe/index.html
-https://jgarza9788.github.io/Excess_Mortality_And_Vaccines_In_Europe/index_part2.html

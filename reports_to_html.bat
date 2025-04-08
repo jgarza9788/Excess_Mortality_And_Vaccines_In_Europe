@@ -1,2 +1,5 @@
-jupyter nbconvert --execute --to html main.ipynb    --output docs/index.html        --HTMLExporter.theme=dark
-jupyter nbconvert --execute --to html main_v2.ipynb --output docs/index_part2.html  --HTMLExporter.theme=dark
+::jupyter nbconvert --execute --to html main.ipynb    --output docs/index.html        --HTMLExporter.theme=dark
+jupyter nbconvert --execute --to html main.ipynb    --output docs/index.html        --HTMLExporter.theme=dark 
+
+
+::jupyter nbconvert --execute --to html main.ipynb --template misc/custom.tpl --output docs/index.html --HTMLExporter.theme=dark 
